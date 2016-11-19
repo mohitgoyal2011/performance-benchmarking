@@ -1,0 +1,495 @@
+Iteration 0
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+------------------------------------------------------------
+RAM Access Time 1024
+RAM Access Overhead(Mean) : 476.040000
+RAM Access Overhead(Variance) : 770.638400
+RAM Access Overhead(Standard Deviation) : 27.760375
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 2048
+RAM Access Overhead(Mean) : 1509.240000
+RAM Access Overhead(Variance) : 17400025.982400
+RAM Access Overhead(Standard Deviation) : 4171.333837
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 16384
+RAM Access Overhead(Mean) : 3498.880000
+RAM Access Overhead(Variance) : 3024661.305600
+RAM Access Overhead(Standard Deviation) : 1739.155343
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 32768
+RAM Access Overhead(Mean) : 423.040000
+RAM Access Overhead(Variance) : 860.038400
+RAM Access Overhead(Standard Deviation) : 29.326411
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 65536
+RAM Access Overhead(Mean) : 563.720000
+RAM Access Overhead(Variance) : 99615.521600
+RAM Access Overhead(Standard Deviation) : 315.619267
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 131072
+RAM Access Overhead(Mean) : 781.880000
+RAM Access Overhead(Variance) : 377665.985600
+RAM Access Overhead(Standard Deviation) : 614.545349
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 262144
+RAM Access Overhead(Mean) : 2493.480000
+RAM Access Overhead(Variance) : 24752329.169600
+RAM Access Overhead(Standard Deviation) : 4975.171270
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 524288
+RAM Access Overhead(Mean) : 11839.400000
+RAM Access Overhead(Variance) : 23602844.040000
+RAM Access Overhead(Standard Deviation) : 4858.275830
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 1048576
+RAM Access Overhead(Mean) : 31196.280000
+RAM Access Overhead(Variance) : 12557087.601600
+RAM Access Overhead(Standard Deviation) : 3543.598115
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 2097152
+RAM Access Overhead(Mean) : 46393.670000
+RAM Access Overhead(Variance) : 38281699.881100
+RAM Access Overhead(Standard Deviation) : 6187.220691
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 3145728
+RAM Access Overhead(Mean) : 51692.540000
+RAM Access Overhead(Variance) : 19068980.148400
+RAM Access Overhead(Standard Deviation) : 4366.804341
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 4194304
+RAM Access Overhead(Mean) : 51873.960000
+RAM Access Overhead(Variance) : 32595248.618400
+RAM Access Overhead(Standard Deviation) : 5709.224870
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 8388608
+RAM Access Overhead(Mean) : 54560.360000
+RAM Access Overhead(Variance) : 15051855.590400
+RAM Access Overhead(Standard Deviation) : 3879.672098
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 67108864
+RAM Access Overhead(Mean) : 63647.500000
+RAM Access Overhead(Variance) : 16989224.290000
+RAM Access Overhead(Standard Deviation) : 4121.798672
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 134217728
+RAM Access Overhead(Mean) : 63884.540000
+RAM Access Overhead(Variance) : 15983960.048400
+RAM Access Overhead(Standard Deviation) : 3997.994503
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 268435456
+RAM Access Overhead(Mean) : 63461.510000
+RAM Access Overhead(Variance) : 21872741.069900
+RAM Access Overhead(Standard Deviation) : 4676.830237
+------------------------------------------------------------
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 1
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+------------------------------------------------------------
+RAM Access Time 1024
+RAM Access Overhead(Mean) : 641.500000
+RAM Access Overhead(Variance) : 1129.470000
+RAM Access Overhead(Standard Deviation) : 33.607588
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 2048
+RAM Access Overhead(Mean) : 462.880000
+RAM Access Overhead(Variance) : 859.705600
+RAM Access Overhead(Standard Deviation) : 29.320737
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 16384
+RAM Access Overhead(Mean) : 475.760000
+RAM Access Overhead(Variance) : 1954.342400
+RAM Access Overhead(Standard Deviation) : 44.207945
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 32768
+RAM Access Overhead(Mean) : 3683.340000
+RAM Access Overhead(Variance) : 13485693.124400
+RAM Access Overhead(Standard Deviation) : 3672.287179
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 65536
+RAM Access Overhead(Mean) : 3612.540000
+RAM Access Overhead(Variance) : 14015.508400
+RAM Access Overhead(Standard Deviation) : 118.387112
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 131072
+RAM Access Overhead(Mean) : 4367.340000
+RAM Access Overhead(Variance) : 7733651.764400
+RAM Access Overhead(Standard Deviation) : 2780.944402
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 262144
+RAM Access Overhead(Mean) : 4328.400000
+RAM Access Overhead(Variance) : 4579659.200000
+RAM Access Overhead(Standard Deviation) : 2140.013832
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 524288
+RAM Access Overhead(Mean) : 11678.560000
+RAM Access Overhead(Variance) : 23174883.606400
+RAM Access Overhead(Standard Deviation) : 4814.029872
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 1048576
+RAM Access Overhead(Mean) : 30867.300000
+RAM Access Overhead(Variance) : 18144279.710000
+RAM Access Overhead(Standard Deviation) : 4259.610277
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 2097152
+RAM Access Overhead(Mean) : 47994.740000
+RAM Access Overhead(Variance) : 23018502.492400
+RAM Access Overhead(Standard Deviation) : 4797.760154
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 3145728
+RAM Access Overhead(Mean) : 49920.620000
+RAM Access Overhead(Variance) : 30104993.855600
+RAM Access Overhead(Standard Deviation) : 5486.801788
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 4194304
+RAM Access Overhead(Mean) : 54847.760000
+RAM Access Overhead(Variance) : 18563536.702400
+RAM Access Overhead(Standard Deviation) : 4308.542294
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 8388608
+RAM Access Overhead(Mean) : 54162.620000
+RAM Access Overhead(Variance) : 14009878.315600
+RAM Access Overhead(Standard Deviation) : 3742.977199
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 67108864
+RAM Access Overhead(Mean) : 61698.070000
+RAM Access Overhead(Variance) : 14393913.905100
+RAM Access Overhead(Standard Deviation) : 3793.931194
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 134217728
+RAM Access Overhead(Mean) : 63466.220000
+RAM Access Overhead(Variance) : 17407378.651600
+RAM Access Overhead(Standard Deviation) : 4172.215077
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 268435456
+RAM Access Overhead(Mean) : 63830.060000
+RAM Access Overhead(Variance) : 18889892.096400
+RAM Access Overhead(Standard Deviation) : 4346.250349
+------------------------------------------------------------
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 2
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+------------------------------------------------------------
+RAM Access Time 1024
+RAM Access Overhead(Mean) : 1833.540000
+RAM Access Overhead(Variance) : 20688721.508400
+RAM Access Overhead(Standard Deviation) : 4548.485628
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 2048
+RAM Access Overhead(Mean) : 1022.400000
+RAM Access Overhead(Variance) : 18842567.360000
+RAM Access Overhead(Standard Deviation) : 4340.802617
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 16384
+RAM Access Overhead(Mean) : 1070.160000
+RAM Access Overhead(Variance) : 12010019.254400
+RAM Access Overhead(Standard Deviation) : 3465.547468
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 32768
+RAM Access Overhead(Mean) : 1308.660000
+RAM Access Overhead(Variance) : 17569424.724400
+RAM Access Overhead(Standard Deviation) : 4191.589761
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 65536
+RAM Access Overhead(Mean) : 1422.580000
+RAM Access Overhead(Variance) : 14802234.583600
+RAM Access Overhead(Standard Deviation) : 3847.367228
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 131072
+RAM Access Overhead(Mean) : 2190.320000
+RAM Access Overhead(Variance) : 19012767.977600
+RAM Access Overhead(Standard Deviation) : 4360.363285
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 262144
+RAM Access Overhead(Mean) : 5764.600000
+RAM Access Overhead(Variance) : 17595177.480000
+RAM Access Overhead(Standard Deviation) : 4194.660592
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 524288
+RAM Access Overhead(Mean) : 11465.380000
+RAM Access Overhead(Variance) : 19012065.095600
+RAM Access Overhead(Standard Deviation) : 4360.282685
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 1048576
+RAM Access Overhead(Mean) : 30821.800000
+RAM Access Overhead(Variance) : 20818643.960000
+RAM Access Overhead(Standard Deviation) : 4562.745222
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 2097152
+RAM Access Overhead(Mean) : 47644.100000
+RAM Access Overhead(Variance) : 30109094.270000
+RAM Access Overhead(Standard Deviation) : 5487.175436
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 3145728
+RAM Access Overhead(Mean) : 50679.400000
+RAM Access Overhead(Variance) : 25403658.880000
+RAM Access Overhead(Standard Deviation) : 5040.204250
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 4194304
+RAM Access Overhead(Mean) : 54843.400000
+RAM Access Overhead(Variance) : 19116285.020000
+RAM Access Overhead(Standard Deviation) : 4372.217403
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 8388608
+RAM Access Overhead(Mean) : 55097.470000
+RAM Access Overhead(Variance) : 14990207.189100
+RAM Access Overhead(Standard Deviation) : 3871.718893
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 67108864
+RAM Access Overhead(Mean) : 63543.800000
+RAM Access Overhead(Variance) : 17306209.180000
+RAM Access Overhead(Standard Deviation) : 4160.073218
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 134217728
+RAM Access Overhead(Mean) : 64348.340000
+RAM Access Overhead(Variance) : 14866104.384400
+RAM Access Overhead(Standard Deviation) : 3855.658748
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 268435456
+RAM Access Overhead(Mean) : 64495.010000
+RAM Access Overhead(Variance) : 17869981.229900
+RAM Access Overhead(Standard Deviation) : 4227.290057
+------------------------------------------------------------
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 3
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+------------------------------------------------------------
+RAM Access Time 1024
+RAM Access Overhead(Mean) : 1139.980000
+RAM Access Overhead(Variance) : 17862698.839600
+RAM Access Overhead(Standard Deviation) : 4226.428615
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 2048
+RAM Access Overhead(Mean) : 4718.020000
+RAM Access Overhead(Variance) : 2563.639600
+RAM Access Overhead(Standard Deviation) : 50.632397
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 16384
+RAM Access Overhead(Mean) : 3573.280000
+RAM Access Overhead(Variance) : 1844683.561600
+RAM Access Overhead(Standard Deviation) : 1358.191283
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 32768
+RAM Access Overhead(Mean) : 558.360000
+RAM Access Overhead(Variance) : 160114.430400
+RAM Access Overhead(Standard Deviation) : 400.143012
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 65536
+RAM Access Overhead(Mean) : 3742.940000
+RAM Access Overhead(Variance) : 296273.316400
+RAM Access Overhead(Standard Deviation) : 544.309945
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 131072
+RAM Access Overhead(Mean) : 1719.700000
+RAM Access Overhead(Variance) : 37323672.990000
+RAM Access Overhead(Standard Deviation) : 6109.310353
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 262144
+RAM Access Overhead(Mean) : 3660.920000
+RAM Access Overhead(Variance) : 4956398.513600
+RAM Access Overhead(Standard Deviation) : 2226.297041
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 524288
+RAM Access Overhead(Mean) : 14316.980000
+RAM Access Overhead(Variance) : 101601750.359600
+RAM Access Overhead(Standard Deviation) : 10079.769360
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 1048576
+RAM Access Overhead(Mean) : 34162.850000
+RAM Access Overhead(Variance) : 30892820.427500
+RAM Access Overhead(Standard Deviation) : 5558.131019
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 2097152
+RAM Access Overhead(Mean) : 46942.740000
+RAM Access Overhead(Variance) : 31054981.532400
+RAM Access Overhead(Standard Deviation) : 5572.699663
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 3145728
+RAM Access Overhead(Mean) : 50789.090000
+RAM Access Overhead(Variance) : 27822224.561900
+RAM Access Overhead(Standard Deviation) : 5274.677674
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 4194304
+RAM Access Overhead(Mean) : 52558.070000
+RAM Access Overhead(Variance) : 17903096.645100
+RAM Access Overhead(Standard Deviation) : 4231.205106
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 8388608
+RAM Access Overhead(Mean) : 54376.400000
+RAM Access Overhead(Variance) : 14913973.540000
+RAM Access Overhead(Standard Deviation) : 3861.861409
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 67108864
+RAM Access Overhead(Mean) : 62677.950000
+RAM Access Overhead(Variance) : 18134567.087500
+RAM Access Overhead(Standard Deviation) : 4258.470041
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 134217728
+RAM Access Overhead(Mean) : 64761.500000
+RAM Access Overhead(Variance) : 151614179.830000
+RAM Access Overhead(Standard Deviation) : 12313.170990
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 268435456
+RAM Access Overhead(Mean) : 64648.600000
+RAM Access Overhead(Variance) : 27632685.220000
+RAM Access Overhead(Standard Deviation) : 5256.680057
+------------------------------------------------------------
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 4
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+------------------------------------------------------------
+RAM Access Time 1024
+RAM Access Overhead(Mean) : 1148.080000
+RAM Access Overhead(Variance) : 16020804.153600
+RAM Access Overhead(Standard Deviation) : 4002.599674
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 2048
+RAM Access Overhead(Mean) : 455.100000
+RAM Access Overhead(Variance) : 791.710000
+RAM Access Overhead(Standard Deviation) : 28.137342
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 16384
+RAM Access Overhead(Mean) : 661.580000
+RAM Access Overhead(Variance) : 2402.503600
+RAM Access Overhead(Standard Deviation) : 49.015340
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 32768
+RAM Access Overhead(Mean) : 515.060000
+RAM Access Overhead(Variance) : 81624.596400
+RAM Access Overhead(Standard Deviation) : 285.700186
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 65536
+RAM Access Overhead(Mean) : 955.720000
+RAM Access Overhead(Variance) : 1005383.441600
+RAM Access Overhead(Standard Deviation) : 1002.688108
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 131072
+RAM Access Overhead(Mean) : 2444.520000
+RAM Access Overhead(Variance) : 21429596.129600
+RAM Access Overhead(Standard Deviation) : 4629.211178
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 262144
+RAM Access Overhead(Mean) : 3885.820000
+RAM Access Overhead(Variance) : 12248829.607600
+RAM Access Overhead(Standard Deviation) : 3499.832797
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 524288
+RAM Access Overhead(Mean) : 13156.180000
+RAM Access Overhead(Variance) : 35718083.447600
+RAM Access Overhead(Standard Deviation) : 5976.460779
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 1048576
+RAM Access Overhead(Mean) : 30901.080000
+RAM Access Overhead(Variance) : 14203175.473600
+RAM Access Overhead(Standard Deviation) : 3768.710054
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 2097152
+RAM Access Overhead(Mean) : 47300.460000
+RAM Access Overhead(Variance) : 28179203.908400
+RAM Access Overhead(Standard Deviation) : 5308.408793
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 3145728
+RAM Access Overhead(Mean) : 48628.310000
+RAM Access Overhead(Variance) : 62301946.573900
+RAM Access Overhead(Standard Deviation) : 7893.158213
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 4194304
+RAM Access Overhead(Mean) : 52620.640000
+RAM Access Overhead(Variance) : 18811540.090400
+RAM Access Overhead(Standard Deviation) : 4337.227235
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 8388608
+RAM Access Overhead(Mean) : 54331.250000
+RAM Access Overhead(Variance) : 20136387.707500
+RAM Access Overhead(Standard Deviation) : 4487.358656
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 67108864
+RAM Access Overhead(Mean) : 64670.760000
+RAM Access Overhead(Variance) : 23997481.802400
+RAM Access Overhead(Standard Deviation) : 4898.722466
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 134217728
+RAM Access Overhead(Mean) : 62597.010000
+RAM Access Overhead(Variance) : 34224489.349900
+RAM Access Overhead(Standard Deviation) : 5850.170027
+------------------------------------------------------------
+------------------------------------------------------------
+RAM Access Time 268435456
+RAM Access Overhead(Mean) : 63107.350000
+RAM Access Overhead(Variance) : 37869498.027500
+RAM Access Overhead(Standard Deviation) : 6153.819792
+------------------------------------------------------------
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

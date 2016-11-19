@@ -1,0 +1,55 @@
+Iteration 0
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Context Switch Fork Overhead(Mean) : 67182.330000
+Context Switch Fork Overhead(Variance) : 22213651.201100
+Context Switch Fork Overhead(Standard Deviation) : 4713.136026
+
+Context Switch Kernel thread Overhead(Mean) : 12139.410000
+Context Switch Kernel thread Overhead(Variance) : 259935735.721900
+Context Switch Kernel thread Overhead(Standard Deviation) : 16122.522623
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 1
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Context Switch Fork Overhead(Mean) : 67928.520000
+Context Switch Fork Overhead(Variance) : 29138185.329600
+Context Switch Fork Overhead(Standard Deviation) : 5397.979745
+
+Context Switch Kernel thread Overhead(Mean) : 12122.220000
+Context Switch Kernel thread Overhead(Variance) : 282868585.151600
+Context Switch Kernel thread Overhead(Standard Deviation) : 16818.697487
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 2
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Context Switch Fork Overhead(Mean) : 75369.740000
+Context Switch Fork Overhead(Variance) : 50652914.252400
+Context Switch Fork Overhead(Standard Deviation) : 7117.086079
+
+Context Switch Kernel thread Overhead(Mean) : 12728.140000
+Context Switch Kernel thread Overhead(Variance) : 282822550.760400
+Context Switch Kernel thread Overhead(Standard Deviation) : 16817.328883
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 3
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Context Switch Fork Overhead(Mean) : 70662.120000
+Context Switch Fork Overhead(Variance) : 31040846.665600
+Context Switch Fork Overhead(Standard Deviation) : 5571.431294
+
+Context Switch Kernel thread Overhead(Mean) : 12343.880000
+Context Switch Kernel thread Overhead(Variance) : 300537399.385600
+Context Switch Kernel thread Overhead(Standard Deviation) : 17336.014518
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 4
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Context Switch Fork Overhead(Mean) : 70976.820000
+Context Switch Fork Overhead(Variance) : 20819707.907600
+Context Switch Fork Overhead(Standard Deviation) : 4562.861811
+
+Context Switch Kernel thread Overhead(Mean) : 12638.770000
+Context Switch Kernel thread Overhead(Variance) : 271448611.297100
+Context Switch Kernel thread Overhead(Standard Deviation) : 16475.697597
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

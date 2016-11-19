@@ -1,0 +1,215 @@
+Iteration 0
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Arguments 0
+
+Procedure Call Overhead(Mean) : 11.140600
+Procedure Call Overhead(Variance) : 24292.367432
+Procedure Call Overhead(Standard Deviation) : 155.860089
+Arguments 1
+
+Procedure Call Overhead(Mean) : 9.720200
+Procedure Call Overhead(Variance) : 2.679712
+Procedure Call Overhead(Standard Deviation) : 1.636983
+Arguments 2
+
+Procedure Call Overhead(Mean) : 9.576800
+Procedure Call Overhead(Variance) : 2.090502
+Procedure Call Overhead(Standard Deviation) : 1.445857
+Arguments 3
+
+Procedure Call Overhead(Mean) : 9.834400
+Procedure Call Overhead(Variance) : 0.994177
+Procedure Call Overhead(Standard Deviation) : 0.997084
+Arguments 4
+
+Procedure Call Overhead(Mean) : 10.289200
+Procedure Call Overhead(Variance) : 2.296363
+Procedure Call Overhead(Standard Deviation) : 1.515376
+Arguments 5
+
+Procedure Call Overhead(Mean) : 9.992000
+Procedure Call Overhead(Variance) : 1.906336
+Procedure Call Overhead(Standard Deviation) : 1.380701
+Arguments 6
+
+Procedure Call Overhead(Mean) : 9.552400
+Procedure Call Overhead(Variance) : 1.478854
+Procedure Call Overhead(Standard Deviation) : 1.216082
+Arguments 7
+
+Procedure Call Overhead(Mean) : 10.061800
+Procedure Call Overhead(Variance) : 0.609381
+Procedure Call Overhead(Standard Deviation) : 0.780628
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 1
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Arguments 0
+
+Procedure Call Overhead(Mean) : 9.764000
+Procedure Call Overhead(Variance) : 2.483504
+Procedure Call Overhead(Standard Deviation) : 1.575914
+Arguments 1
+
+Procedure Call Overhead(Mean) : 9.709800
+Procedure Call Overhead(Variance) : 1.850584
+Procedure Call Overhead(Standard Deviation) : 1.360362
+Arguments 2
+
+Procedure Call Overhead(Mean) : 9.639600
+Procedure Call Overhead(Variance) : 4.302912
+Procedure Call Overhead(Standard Deviation) : 2.074346
+Arguments 3
+
+Procedure Call Overhead(Mean) : 9.850800
+Procedure Call Overhead(Variance) : 1.612939
+Procedure Call Overhead(Standard Deviation) : 1.270015
+Arguments 4
+
+Procedure Call Overhead(Mean) : 10.915200
+Procedure Call Overhead(Variance) : 4621.045609
+Procedure Call Overhead(Standard Deviation) : 67.978273
+Arguments 5
+
+Procedure Call Overhead(Mean) : 11.344800
+Procedure Call Overhead(Variance) : 23395.771513
+Procedure Call Overhead(Standard Deviation) : 152.956764
+Arguments 6
+
+Procedure Call Overhead(Mean) : 9.615400
+Procedure Call Overhead(Variance) : 1.725283
+Procedure Call Overhead(Standard Deviation) : 1.313500
+Arguments 7
+
+Procedure Call Overhead(Mean) : 11.587000
+Procedure Call Overhead(Variance) : 23493.431431
+Procedure Call Overhead(Standard Deviation) : 153.275671
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 2
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Arguments 0
+
+Procedure Call Overhead(Mean) : 11.778000
+Procedure Call Overhead(Variance) : 44642.472316
+Procedure Call Overhead(Standard Deviation) : 211.287653
+Arguments 1
+
+Procedure Call Overhead(Mean) : 11.387200
+Procedure Call Overhead(Variance) : 24249.069276
+Procedure Call Overhead(Standard Deviation) : 155.721127
+Arguments 2
+
+Procedure Call Overhead(Mean) : 10.742800
+Procedure Call Overhead(Variance) : 10138.959448
+Procedure Call Overhead(Standard Deviation) : 100.692400
+Arguments 3
+
+Procedure Call Overhead(Mean) : 9.811200
+Procedure Call Overhead(Variance) : 0.929155
+Procedure Call Overhead(Standard Deviation) : 0.963927
+Arguments 4
+
+Procedure Call Overhead(Mean) : 10.427800
+Procedure Call Overhead(Variance) : 11.878987
+Procedure Call Overhead(Standard Deviation) : 3.446591
+Arguments 5
+
+Procedure Call Overhead(Mean) : 9.843800
+Procedure Call Overhead(Variance) : 0.772002
+Procedure Call Overhead(Standard Deviation) : 0.878636
+Arguments 6
+
+Procedure Call Overhead(Mean) : 9.526200
+Procedure Call Overhead(Variance) : 1.601514
+Procedure Call Overhead(Standard Deviation) : 1.265509
+Arguments 7
+
+Procedure Call Overhead(Mean) : 10.063600
+Procedure Call Overhead(Variance) : 0.518355
+Procedure Call Overhead(Standard Deviation) : 0.719969
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 3
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Arguments 0
+
+Procedure Call Overhead(Mean) : 9.539600
+Procedure Call Overhead(Variance) : 1.392032
+Procedure Call Overhead(Standard Deviation) : 1.179844
+Arguments 1
+
+Procedure Call Overhead(Mean) : 9.660000
+Procedure Call Overhead(Variance) : 1.590800
+Procedure Call Overhead(Standard Deviation) : 1.261269
+Arguments 2
+
+Procedure Call Overhead(Mean) : 11.751600
+Procedure Call Overhead(Variance) : 26009.279897
+Procedure Call Overhead(Standard Deviation) : 161.273928
+Arguments 3
+
+Procedure Call Overhead(Mean) : 10.097600
+Procedure Call Overhead(Variance) : 2.340074
+Procedure Call Overhead(Standard Deviation) : 1.529730
+Arguments 4
+
+Procedure Call Overhead(Mean) : 10.226600
+Procedure Call Overhead(Variance) : 2.305852
+Procedure Call Overhead(Standard Deviation) : 1.518503
+Arguments 5
+
+Procedure Call Overhead(Mean) : 9.803000
+Procedure Call Overhead(Variance) : 0.773591
+Procedure Call Overhead(Standard Deviation) : 0.879540
+Arguments 6
+
+Procedure Call Overhead(Mean) : 9.649400
+Procedure Call Overhead(Variance) : 1.436680
+Procedure Call Overhead(Standard Deviation) : 1.198616
+Arguments 7
+
+Procedure Call Overhead(Mean) : 10.094000
+Procedure Call Overhead(Variance) : 2.245564
+Procedure Call Overhead(Standard Deviation) : 1.498521
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 4
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Arguments 0
+
+Procedure Call Overhead(Mean) : 9.577800
+Procedure Call Overhead(Variance) : 1.862147
+Procedure Call Overhead(Standard Deviation) : 1.364605
+Arguments 1
+
+Procedure Call Overhead(Mean) : 9.699200
+Procedure Call Overhead(Variance) : 1.551919
+Procedure Call Overhead(Standard Deviation) : 1.245761
+Arguments 2
+
+Procedure Call Overhead(Mean) : 9.712000
+Procedure Call Overhead(Variance) : 1.659456
+Procedure Call Overhead(Standard Deviation) : 1.288199
+Arguments 3
+
+Procedure Call Overhead(Mean) : 9.838800
+Procedure Call Overhead(Variance) : 1.352415
+Procedure Call Overhead(Standard Deviation) : 1.162934
+Arguments 4
+
+Procedure Call Overhead(Mean) : 11.928800
+Procedure Call Overhead(Variance) : 23843.692531
+Procedure Call Overhead(Standard Deviation) : 154.414030
+Arguments 5
+
+Procedure Call Overhead(Mean) : 10.045000
+Procedure Call Overhead(Variance) : 2.811975
+Procedure Call Overhead(Standard Deviation) : 1.676894
+Arguments 6
+
+Procedure Call Overhead(Mean) : 9.702600
+Procedure Call Overhead(Variance) : 1.600753
+Procedure Call Overhead(Standard Deviation) : 1.265209
+Arguments 7
+
+Procedure Call Overhead(Mean) : 10.023800
+Procedure Call Overhead(Variance) : 0.692634
+Procedure Call Overhead(Standard Deviation) : 0.832246
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

@@ -1,0 +1,50 @@
+Iteration 0
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Memory Read Bandwidth(Mean): 3.20877515112 GB/s
+Memory Read Bandwidth(Variance): 0.0492832347092
+Memory Read Bandwidth(Standard Deviation): 0.221998276365 GB/s
+------------------------------------------------------------
+Memory Write Bandwidth(Mean): 5.00540146373 GB/s
+Memory Write Bandwidth(Variance): 0.000175164316767
+Memory Write Bandwidth(Standard Deviation): 0.0132349656882 GB/s
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 1
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Memory Read Bandwidth(Mean): 3.40482328232 GB/s
+Memory Read Bandwidth(Variance): 0.0904554554301
+Memory Read Bandwidth(Standard Deviation): 0.300758134437 GB/s
+------------------------------------------------------------
+Memory Write Bandwidth(Mean): 4.92755276642 GB/s
+Memory Write Bandwidth(Variance): 0.00692421390238
+Memory Write Bandwidth(Standard Deviation): 0.0832118615486 GB/s
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 2
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Memory Read Bandwidth(Mean): 3.3478787866 GB/s
+Memory Read Bandwidth(Variance): 0.0563196375524
+Memory Read Bandwidth(Standard Deviation): 0.237317587954 GB/s
+------------------------------------------------------------
+Memory Write Bandwidth(Mean): 5.0092795343 GB/s
+Memory Write Bandwidth(Variance): 0.000110782205171
+Memory Write Bandwidth(Standard Deviation): 0.0105253125926 GB/s
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 3
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Memory Read Bandwidth(Mean): 3.33477272913 GB/s
+Memory Read Bandwidth(Variance): 0.0602785688315
+Memory Read Bandwidth(Standard Deviation): 0.245516942046 GB/s
+------------------------------------------------------------
+Memory Write Bandwidth(Mean): 5.00643546535 GB/s
+Memory Write Bandwidth(Variance): 8.29232214435e-05
+Memory Write Bandwidth(Standard Deviation): 0.00910621883349 GB/s
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 4
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Memory Read Bandwidth(Mean): 3.28643140773 GB/s
+Memory Read Bandwidth(Variance): 0.0531860717
+Memory Read Bandwidth(Standard Deviation): 0.230621056497 GB/s
+------------------------------------------------------------
+Memory Write Bandwidth(Mean): 5.00900596263 GB/s
+Memory Write Bandwidth(Variance): 0.000113743125829
+Memory Write Bandwidth(Standard Deviation): 0.0106650422329 GB/s
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

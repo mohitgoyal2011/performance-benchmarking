@@ -1,0 +1,55 @@
+Iteration 0
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Fork Overhead(Mean) : 156367.400600
+Fork Overhead(Variance) : 2293167131827.539551
+Fork Overhead(Standard Deviation) : 1514320.683286
+
+Kernel Thread Overhead(Mean) : 31234.253600
+Kernel Thread Overhead(Variance) : 67008200729.787140
+Kernel Thread Overhead(Standard Deviation) : 258859.422718
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 1
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Fork Overhead(Mean) : 156772.335200
+Fork Overhead(Variance) : 2275567638784.806641
+Fork Overhead(Standard Deviation) : 1508498.471588
+
+Kernel Thread Overhead(Mean) : 34291.234400
+Kernel Thread Overhead(Variance) : 78149110781.166580
+Kernel Thread Overhead(Standard Deviation) : 279551.624537
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 2
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Fork Overhead(Mean) : 157332.861800
+Fork Overhead(Variance) : 2437912669044.303223
+Fork Overhead(Standard Deviation) : 1561381.653871
+
+Kernel Thread Overhead(Mean) : 34150.334600
+Kernel Thread Overhead(Variance) : 82312332958.148651
+Kernel Thread Overhead(Standard Deviation) : 286901.259945
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 3
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Fork Overhead(Mean) : 164494.518800
+Fork Overhead(Variance) : 2459678831498.736816
+Fork Overhead(Standard Deviation) : 1568336.326015
+
+Kernel Thread Overhead(Mean) : 33421.098600
+Kernel Thread Overhead(Variance) : 73761658788.599838
+Kernel Thread Overhead(Standard Deviation) : 271590.977001
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 4
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Fork Overhead(Mean) : 165323.382400
+Fork Overhead(Variance) : 2452406297030.874023
+Fork Overhead(Standard Deviation) : 1566016.058995
+
+Kernel Thread Overhead(Mean) : 32237.995800
+Kernel Thread Overhead(Variance) : 68516139685.227943
+Kernel Thread Overhead(Standard Deviation) : 261755.878034
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

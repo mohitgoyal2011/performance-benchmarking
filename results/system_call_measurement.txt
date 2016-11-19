@@ -1,0 +1,30 @@
+Iteration 0
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+System Call Overhead(Mean): 5375.984
+System Call Overhead(Variance): 46023363.9937
+System Call Overhead(Standard Deviation): 6784.05218094
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 1
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+System Call Overhead(Mean): 5062.8561
+System Call Overhead(Variance): 42052282.3494
+System Call Overhead(Standard Deviation): 6484.77311472
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 2
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+System Call Overhead(Mean): 5044.6785
+System Call Overhead(Variance): 41063882.5899
+System Call Overhead(Standard Deviation): 6408.11068802
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 3
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+System Call Overhead(Mean): 4913.7084
+System Call Overhead(Variance): 38439384.7996
+System Call Overhead(Standard Deviation): 6199.95038686
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 4
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+System Call Overhead(Mean): 5367.2866
+System Call Overhead(Variance): 48118897.0247
+System Call Overhead(Standard Deviation): 6936.77857688
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
